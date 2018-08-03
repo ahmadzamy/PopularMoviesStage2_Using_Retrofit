@@ -6,4 +6,6 @@ public interface MoviesContract {
     String IMAGE_BASE_URL = "http://image.tmdb.org/t/p/w185/";
     String API_KEY = "api_key=YOUR_API_KEY";
 
+
+
 }
